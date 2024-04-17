@@ -1,0 +1,33 @@
+---
+title: "Understanding Down Payments: What they are and how much you need"
+subtitle:
+layout: default
+modal-id: 1
+date: 2023-04-01
+img: banking.jpg
+thumbnail: banking.jpg
+alt: image-alt
+project-date: April 2023
+category: Banking
+---
+
+For many, owning a home is a significant life goal, but it can seem unachievable due to budget constraints. However, options like home financing allow buyers to turn their dream into reality. In such cases, a lender provides money to buy a property, and you make fixed monthly payments for a specific period. However, you will require a down payment as financing the total price of a house is generally not possible.
+
+#### What is a down payment?
+
+A down payment is an amount of money that you pay upfront to buy large goods such as houses or cars. For residential properties, it is usually a percentage between 5% and 20% of the home purchase price. A down payment is typically made with personal funds, and the rest is financed with a mortgage.
+The down payment amount varies depending on the value of the home:
+
+- If the purchase price is less than $500,000, the minimum down payment is 5%.
+- If the purchase price is between $500,000 and $900,000, the minimum down paym-ent is 5% of the first $500,000 and 10% of the remaining amount.
+- If the purchase price is $1 million or more, the minimum down payment is 20% -of the total home price.
+
+Let's say you're purchasing a $310,000 house. The minimum down payment would be 5%, which amounts to $15,500. For a $750,000 property, the down payment would be 5% of $500,000 plus 10% of the remaining $250,000, totaling $50,000.
+
+#### Tips for saving for a down payment:
+
+1. Take Control of Your Finances: Begin by tracking your monthly income and creating a budget that allows you to pay debts while saving money. The 50-30-20 rule (50% for needs, 30% for wants, and 20% for savings) can provide a good starting point if you're struggling with finances.
+
+2. Open a Savings Account: Explore different options for investing your money to make it grow and reach your savings goals. Consider options like the First Home Saving Account, specifically designed to assist first-time homebuyers in saving for their down payments.
+
+3. Explore Down Payment Incentives: Look into programs designed to make home purchases more affordable. For example, the Home Buyers' Plan permits you to withdraw up to $35,000 from your Registered Retirement Savings Plan. Additionally, the First-Time Home Buyer Incentive offers a shared equity mortgage with the government, reducing the required down payment.

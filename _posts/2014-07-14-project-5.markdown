@@ -1,15 +1,27 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: "Internal Communications"
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+date: 2023-10-14
+img: internal.jpg
+thumbnail: internal.jpg
+alt: internal-communications
+project-date: October 2023
+category: "Internal communications"
 ---
+
+### Email example
+
+**Subject:** Restart of overseas flights and COVID-19 measures
+
+Dear all,
+After a year of lockdown and travel restrictions due to the pandemic, we are glad to announce that starting next March 1st, 2021, we are going to restart overseas flights. As part of our commitment to your health and safety, masks are going to be mandatory for passengers, crew members, and all our staff who are going to work in airports.
+
+We will be one of the first airlines to reestablish international flights, and part of our responsibility for your safety includes strict protocols within the company and with our passengers. For that reason, we have decided to add indefinitely to an internal no fly-list all travelers who refuse to comply with our measures, especially with the use of masks.
+
+Tomorrow morning you will receive a document with instructions on how to proceed with these situations as well as the updated protocols we will execute in airports and flights.
+We will implement other measures such as daily COVID-19 tests, staggered shifts, hand washing stations, aircraft disinfection, and hygiene kits. We will share the details tomorrow as well.
+
+For those who work remotely in administrative positions, we will keep this model indefinitely following the health institutions’ recommendations.
+
+I take this opportunity to thank all of you for your commitment and dedication during these difficult times. We will continue working to keep you safe. If you have any questions or concerns, don’t hesitate to reach out

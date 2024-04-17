@@ -12,6 +12,8 @@ body {
 
 .text-muted {
     color: #{{ site.data.template.color.muted }};
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 .text-primary {
@@ -52,7 +54,7 @@ h3,
 h4,
 h5,
 h6 {
-    text-transform: uppercase;
+    
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
 }
@@ -864,4 +866,11 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+}
+
+
+.porfolioRow{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }

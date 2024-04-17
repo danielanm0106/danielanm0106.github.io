@@ -1,0 +1,23 @@
+---
+title: "Previous work"
+layout: default
+modal-id: 6
+date: 2023-10-14
+img: previous.jpg
+thumbnail: previous.jpg
+alt: internal-communications
+project-date: October 2023
+category: "Internal communications"
+---
+
+I have some communication materials I worked on during my time at Banco de Bogotá. Although they are not in English, I would like to give you an idea of the content I created with other teams. These materials include landing pages and videos that explain product details and frequently asked questions. They were designed to help customers make informed decisions and attract new ones.
+
+### Links
+
+[Loan](https://www.bancodebogota.com/wps/themes/html/digital/credito-libre-destino/credito-libre-inversion.html)
+
+[Interest rate](https://www.bancodebogota.com/wps/themes/html/digital/credito-libre-destino/tasa-interes.html)
+
+[Housing](https://www.bancodebogota.com/wps/themes/html/digital/vivienda/solicitar-credito.html)
+
+["How to" videos](https://youtube.com/playlist?list=PLD9VBG6FIyBdAYAajqur6A79aEormCVSH&si=LUpkbwtve2LinL1v)

@@ -1,15 +1,49 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: "Trans Canada Air Lines announces mandatory masks on flights and restrictions for passengers who don’t comply"
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+date: 2023-06-01
+img: flight.jpg
+thumbnail: flight.jpg
+alt: Health
+project-date: June 2023
+category: Health
 ---
+
+February 10, 2021. Toronto, Canada. As part of the COVID-19 response, Trans Canada becomes one of the first airlines to require all passengers and crew members to wear face
+masks on domestic and international flights from next February 15th. Travellers who don’t
+comply with the measure will be added indefinitely to a no-fly list.
+
+“Our priority is the health of passengers and that includes strict protocols that allow them to
+travel safely. We implement the face mask policy based on research from the WHO that
+indicates masks reduce the spread of COVID-19 significantly. We don’t want to cause any
+inconvenience to our travellers and we trust they will understand and follow the measures
+to face the pandemic together”, says Helen McLennan, Operations Manager of the company.
+
+Face masks must cover the nose and mouth and will be required all time during the flight.
+The airline highly recommends the use of non-medical masks. However, passengers can
+choose the mask that best suits their needs.
+
+The airline will implement other measures including disinfection of aircraft and hard touch
+areas, use of HEPA filters that renew the air every 2-3 minutes and remove 99.9% of
+airborne particles, and delivery of hygiene kits with face masks, antiseptic wipes, and hand
+sanitizers. For additional information about the COVID-19 policies and travel requirements,
+click here www.tca/covid19.ca
+
+**About Trans Canada Air Lines**
+
+Trans Canada Air Lines is a Montreal-based company with 84 years on the market providing
+customers flights across six continents with more than 180 routes. The mission of the airline
+is to connect people around the world by providing high-quality services at affordable prices.
+For additional information, visit www.tca.ca
+
+
+**Media Contact**
+
+Olivia Brown
+
+Communications Manager
+
+514-605-5212
+
+Obrown@tca.ca

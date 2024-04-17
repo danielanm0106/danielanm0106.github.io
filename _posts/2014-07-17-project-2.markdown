@@ -1,15 +1,34 @@
 ---
-title: Escape
-subtitle: Website Design
+title: "How to make Ghee butter at home and why you should give it a try?"
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+date: 2024-03-13
+img: health.jpg
+thumbnail: health.jpg
+alt: butter
+project-date: April 2024
+category: Health
 ---
+
+Maintaining a balanced diet involves finding the perfect mix of protein, veggies, grains, fruits, and even fats. Some foods, such as avocado or almonds, are considered healthy fats and are good for our bodies. Today, we'll dive into the world of the famous Ghee, also known as clarified butter. Not only is it delicious, but it's also a healthy fat with numerous benefits.
+
+**Bonus: (home recipe included😉).**
+
+My journey into the world of Ghee butter began thanks to my husband. He is the one who usually buys and makes it at times. When I gave it a try, I noticed its distinct flavor compared to regular butter. So, I decided to learn more about this renowned product and found several reasons to make it part of my diet:
+
+1. Versatility in cooking: Ghee can replace cooking oils, making it an ideal choice for frying or roasting your favorite food. Additionally, it's a fantastic ingredient for baking. If cooking or baking isn’t your thing, you can still enjoy it by simply spreading it on your bread or toast. You will feel that roasted, soft, slightly nutty taste that, for sure, will elevate your breakfast.
+
+2. Ease and Economy of Homemade Preparation: Making ghee at home is easy and budget-friendly, especially when you consider the cost of a butter bar. Plus, it lasts for months, meaning you don't have to worry about making it regularly if you're short on time.
+
+3. Health benefits: Ghee butter is a rich source of vitamins A, D, E, and K, contributing to visual health, bone strength, and immune system maintenance. It also aids digestion, alleviates inflammation, and provides support for heart health. Additionally, since it doesn’t contain water or milk solids, it's a suitable option for those with lactose intolerance or dairy allergies.
+
+**Bonus: How to make Ghee butter?**
+
+1. Unwrap and cut one pound (454 grams) of unsalted butter into cubes and place them into a pot over low heat. Allow the butter to melt until it reaches a simmer.
+2. During the process, you’ll observe two distinct layers; the liquid butter and the milk solids that tend to float to the surface. Use a spoon to skim off the foam.
+3. Let the Ghee cook for around 15-20 minutes allowing the remaining milk solids to sink to the bottom. You’ll notice the Ghee turns into a golden color.
+4. Once it’s ready, let it cool for a few minutes.
+5. Grab a glass container and a straining tool (such as a coffee filter, nut milk bag, or cheesecloth). Strain the Ghee to remove any residual solids.
+6. After straining, store it in a kitchen cabinet or in the refrigerator to keep it longer.
+
+   Enjoy!
