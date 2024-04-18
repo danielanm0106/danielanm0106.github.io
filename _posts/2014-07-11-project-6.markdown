@@ -7,7 +7,7 @@ img: previous.jpg
 thumbnail: previous.jpg
 alt: internal-communications
 project-date: October 2023
-category: "Internal communications"
+category: "Work"
 ---
 
 I have some communication materials I worked on during my time at Banco de Bogotá. Although they are not in English, I would like to give you an idea of the content I created with other teams. These materials include landing pages and videos that explain product details and frequently asked questions. They were designed to help customers make informed decisions and attract new ones.

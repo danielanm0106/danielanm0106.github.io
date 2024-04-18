@@ -2,7 +2,7 @@
 title: "Trans Canada Air Lines announces mandatory masks on flights and restrictions for passengers who don’t comply"
 layout: default
 modal-id: 4
-date: 2023-06-01
+date: 2023-11-01
 img: flight.jpg
 thumbnail: flight.jpg
 alt: Health

@@ -271,7 +271,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/header-bg.png');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -873,4 +873,19 @@ body {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+}
+
+p {
+    text-align: justify;
+
+}
+
+li {
+    text-align: justify;
+}
+
+.img-size{
+    width: 20%;
+    height: auto;
+    min-width: 50%;
 }
